@@ -1,4 +1,5 @@
 # test-project
 
 [not revelant]
-only testing purposes because I am new to Github
+only for testing purposes because I am new to Github.
+
